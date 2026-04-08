@@ -1,0 +1,38 @@
+*{
+    font-style: italic;
+}
+
+.formCard{
+    box-shadow: 0px 8px 32px;
+}
+
+body{
+    background-color: cornflowerblue;
+}
+
+h1{
+    margin: 50px;
+    height: 10px;
+    color: brown;
+    text-align: start;
+}
+
+p{
+    padding: 3rem;
+    border: 100px;
+    background-color: aqua;
+}
+
+.index{
+    background-image: url(../taskimages/downloadamala.webp);
+    background-position: center;
+
+}
+
+
+
+
+
+
+
+
